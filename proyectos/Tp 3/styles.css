@@ -1,0 +1,22 @@
+body{
+    background-color: grey;
+}
+
+
+
+table{
+    margin: 150px auto;
+    width: 600px;
+    text-align: left;
+    background-color: white;
+    /* Para unificar bordes de tabla*/
+    border-collapse: collapse;
+    
+}
+
+th, td{
+    border: solid 1px black;
+    padding: 10px;
+
+}
+
